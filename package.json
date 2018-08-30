@@ -1,0 +1,30 @@
+{
+  "name": "myfirstskypebot",
+  "version": "1.0.0",
+  "description": "Udemy bot framework course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhileshsh026/Bot-Frameworks.git"
+  },
+  "keywords": [
+    "dialogflow",
+    "ms",
+    "boot",
+    "framework",
+    "google",
+    "assistent",
+    "NLP",
+    "AI",
+    "ML"
+  ],
+  "author": "Akhilesh Kumar Rajendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhileshsh026/Bot-Frameworks/issues"
+  },
+  "homepage": "https://github.com/akhileshsh026/Bot-Frameworks#readme"
+}
